@@ -1,0 +1,60 @@
+/*
+Alterações realizadas no site para o Workshop de 2022
+
+Criado por Juliana A. Santos
+*/
+
+
+
+.p1{
+  color: #000000;
+		font-weight: 900;
+		line-height: 26px;
+		margin: 0 0 0.1em 0;
+    font-variant: small-caps;
+    font-family: 'Ubuntu', sans-serif';
+    font: bolder;
+    font-size: 50px;
+    letter-spacing: .35px
+
+}
+
+
+.p2{
+  font-weight: 500;
+		line-height: 1em;
+		margin: 0.5em auto 1em;
+    color: #000000;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: .25px;
+    font-weight: bold;
+
+}
+
+.p3{
+  font-weight: 500;
+		line-height: 1em;
+		margin: 0 0 0 0;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: .25px;
+}
+
+.teste{
+  background-color: rgb(250, 194, 42);
+}
+
+.imagem{
+    width: 13rem;
+    height: 13rem;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 0.2rem solid black;
+}
+      

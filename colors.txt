@@ -1,0 +1,7 @@
+color:black
+color:#4cd137
+color:#3498db
+color:#9b59b6
+color:#e74c3c
+color:#4bcffa
+color:#0652DD
