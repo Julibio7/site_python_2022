@@ -7,7 +7,7 @@ Criado por Juliana A. Santos
 
 
 .p1{
-  color: #000000;
+  color: #fff;
 		font-weight: 900;
 		line-height: 26px;
 		margin: 0 0 0.1em 0;
@@ -21,10 +21,10 @@ Criado por Juliana A. Santos
 
 
 .p2{
-  font-weight: 500;
+  font-weight: 700;
 		line-height: 1em;
 		margin: 0.5em auto 1em;
-    color: #000000;
+    color: #fff;
     font-family: 'Ubuntu', sans-serif;
     font-size: 40px;
     font-weight: 400;
@@ -35,9 +35,9 @@ Criado por Juliana A. Santos
 }
 
 .p3{
-  font-weight: 500;
+  font-weight: 700;
 		line-height: 1em;
-		margin: 0 0 0 0;
+		margin:  0.1em auto 0.7em;
     color: #fff;
     font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
@@ -46,9 +46,18 @@ Criado por Juliana A. Santos
     letter-spacing: .25px;
 }
 
-.teste{
-  background-color: rgb(250, 194, 42);
+.p4{
+  font-weight: 500;
+		line-height: 1em;
+		margin: 0 0 0 0;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: .25px;
 }
+
 
 .imagem{
     width: 13rem;
@@ -58,3 +67,8 @@ Criado por Juliana A. Santos
     border: 0.2rem solid black;
 }
       
+.center-text{
+  
+ 
+}
+
